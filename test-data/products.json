@@ -1,0 +1,10 @@
+{
+  "validProduct": {
+    "keyword": "Dress",
+    "expectedResult": "Dress"
+  },
+  "invalidProduct": {
+    "keyword": "NonExistingProduct123",
+    "expectedMessage": "Searched Products"
+  }
+}

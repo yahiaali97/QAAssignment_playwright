@@ -1,0 +1,38 @@
+{
+  "validUser": {
+    "name": "yahia ali",
+    "email": "yahyaqc12@test.com",
+    "password": "Password@123",
+    "day": "9",
+    "month": "5",
+    "year": "1997",
+    "firstName": "Test",
+    "lastName": "User",
+    "address": "123 Test Street",
+    "country": "India",
+    "state": "Cairo",
+    "city": "Nasr City",
+    "zipcode": "12345",
+    "mobile": "01012345678"
+  },
+  "invalidPasswordUser": {
+    "email": "testuser_qa@example.com",
+    "password": "WrongPassword"
+  },
+  "invalidEmailUser": {
+    "email": "wrongemail@test.com",
+    "password": "Password@123"
+  },
+  "emptyUser": {
+    "email": "",
+    "password": ""
+  },
+  "emptyEmailUser": {
+    "email": "",
+    "password": "Password@123"
+  },
+  "emptyPasswordUser": {
+    "email": "testuser_qa@example.com",
+    "password": ""
+  }
+}
